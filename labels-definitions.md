@@ -12,7 +12,10 @@ Involves work directly related to parts of the site that involve accessibility. 
 Any kind of work that involves the extraction of site usage data, whether from Springshare or Google Analytics. These projects often involve cleaning data, visualizing it, and making it available for community insight
 
 ### best practices
-Issue with this label inherently involve making decisions about system rules and usages (and then writing them down on the site documentation).
+Issues with this label inherently involve making decisions about system rules and usages (and then writing them down on the site documentation).
+
+### bug
+This label represents features in LibGuides that are broken and are prohibiting a critical thing from happening. They should receive a higher level of attention.
 
 ### cleanup
 This label indicates projects in which it is required to weed out or otherwise change links, images, guides, or pages that have broken or degraded because of system changes, link rot, or other related challenges

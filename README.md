@@ -20,6 +20,15 @@ Members of the working group are expected to self-assign issues, work on them, a
 * Make every effort to attend working group meetings, in person or virtually
 * Be open about the status of your work project and what you need to get it done
 
+## Communication expectations
+
+In order for our work to take place rapidly, we need to rely on the working group to take up tasks and be generous with ideas and feedback on the issues that have been established. Here are some recommended ideas:
+
+* "Watch" the repository and set email notifications to come through so you can track discussions
+* Mention other team members directly (by using @) when you feel that someone specific should be involved with a project
+* Comment liberally and offer "thumbs up" on issues to demonstrate that you are in support of a proposed course of action
+
 ## Important documents
 
 * [Description of project labels](/labels-definitions.md)
+* [Process for updating stylesheets](/style-sheets-workflow.md)
